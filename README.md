@@ -9,6 +9,8 @@
 
 #edit dated june 25
 
+#edit dated june 26(on 27)
+
 Five small C programs that each deliberately corrupt memory in a
 different way, built and run both **with** and **without**
 AddressSanitizer (`-fsanitize=address`). The point isn't the bugs
