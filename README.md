@@ -11,7 +11,7 @@
 
 #edit dated june 26(on 27)
 
-#edit dated june 27 on june 27
+#edit dated june 27 on june 27 itself
 
 Five small C programs that each deliberately corrupt memory in a
 different way, built and run both **with** and **without**
